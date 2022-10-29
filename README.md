@@ -1,2 +1,2 @@
 # MarvelHeroes
-MarvelAPI VIPER Pattern Infinite Scrolling and Detail Page 
+VIPER Pattern MarvelAPI Infinite Scrolling and Detail Page 
